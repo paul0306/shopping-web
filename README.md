@@ -1,4 +1,4 @@
-# 購物車專案 (Shopping Cart Project)
+# 電商網站
 
 一個完整的購物網站應用，前端使用 Vue.js 開發，後端使用 Spring Boot 開發，並整合 JWT 認證機制。
 
